@@ -1,0 +1,3 @@
+/home/spencer/src/rugg-stacking-linux/build/CMakeFiles/rebuild_cache.dir
+/home/spencer/src/rugg-stacking-linux/build/CMakeFiles/vision-server.dir
+/home/spencer/src/rugg-stacking-linux/build/CMakeFiles/edit_cache.dir
